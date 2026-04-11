@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/categories/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
-                href="http://localhost:1313/kn/categories/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/kn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/events/sanmana/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/events/sanmana/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/events/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/festival/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/categories/festival/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
-                href="http://localhost:1313/kn/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/kn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/"
                 />
   </url><url>
-    <loc>http://localhost:1313/events/temple-festival/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/events/temple-festival/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
-                href="http://localhost:1313/kn/tags/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/kn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/tags/"
                 />
   </url>
 </urlset>
