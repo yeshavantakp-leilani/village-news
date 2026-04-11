@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<section style="max-width: 1100px; margin: 0 auto; padding: 0 24px;">
+
+<h3> Live Feed Example </h3>
+
+<iframe width="1278" height="650" src="https://www.youtube.com/embed/taDKNqFpH14" title="Decode Live: Iran Unrest | Trump Vs Khamenei | Mamata Banerjee | TMC | ED Raids IPAC | DD News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
+</section>
+
+  <section style="max-width: 1100px; margin: 0 auto; padding: 0 24px;">
+    {{ range (where site.RegularPages "Section" "events").ByDate.Reverse }}
+      <article style="display:flex; gap:20px; margin-bottom:30px;">
+
+        {{ with .Params.thumbnail }}
+          {{ $img := $.Resources.GetMatch . }}
+            {{ if $img }}
+              <img src="{{ $img.RelPermalink }}" style="width:180px; height:auto; border-radius:8px;">
+          {{ end }}
+        {{ end }}
+
+        <div>
+          <h2>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+
+          <p><small>{{ .Date.Format "02 Jan 2006" }}</small></p>
+
+          <p>{{ .Summary }}</p>
+        </div>
+
+      </article>
+    {{ end }}
+  </section>
+
+
+{{ end }}

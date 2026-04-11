@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <section>
+    {{ range .Pages }}
+      <article style="display:flex; gap:20px; margin-bottom:30px;">
+        
+        {{ with .Params.thumbnail }}
+          <img src="{{ . | relURL }}" style="width:180px; height:auto; border-radius:8px;">
+        {{ end }}
+
+        <div>
+          <h2>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+
+          <p><small>{{ .Date.Format "02 Jan 2006" }}</small></p>
+
+          <p>{{ .Summary }}</p>
+
+        </div>
+      </article>
+    {{ end }}
+  </section>
+{{ end }}

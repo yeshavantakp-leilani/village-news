@@ -1,0 +1,19 @@
+baseURL = "http://localhost/"
+languageCode = "en"
+title = "NRIs of Sagar"
+theme = "Mainroad"
+
+[languages]
+  [languages.en]
+    weight = 1
+    languageName = "English"
+
+  [languages.kn]
+    weight = 2
+    languageName = "ಕನ್ನಡ"
+
+[params]
+  mainSections = ["events"]
+
+[markup.goldmark.renderer]
+  unsafe = true
