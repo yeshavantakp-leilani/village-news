@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/kn/categories/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/kn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
-                href="http://localhost:1313/kn/categories/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/kn/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/kn/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/kn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
-                href="http://localhost:1313/kn/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/kn/"
                 />
   </url><url>
-    <loc>http://localhost:1313/kn/tags/</loc>
+    <loc>https://https://yeshavantakp-leilani.github.io/village-news/kn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
-                href="http://localhost:1313/kn/tags/"
+                href="https://https://yeshavantakp-leilani.github.io/village-news/kn/tags/"
                 />
   </url>
 </urlset>

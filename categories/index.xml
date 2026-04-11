@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on NRIs of Sagar</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://https://yeshavantakp-leilani.github.io/village-news/categories/</link>
     <description>Recent content in Categories on NRIs of Sagar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://https://yeshavantakp-leilani.github.io/village-news/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Festival</title>
-      <link>http://localhost:1313/categories/festival/</link>
+      <link>https://https://yeshavantakp-leilani.github.io/village-news/categories/festival/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/festival/</guid>
+      <guid>https://https://yeshavantakp-leilani.github.io/village-news/categories/festival/</guid>
       <description></description>
     </item>
   </channel>
