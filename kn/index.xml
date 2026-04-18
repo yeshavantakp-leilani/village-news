@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NRIs of Sagar</title>
-    <link>https://yeshavantakp-leilani.github.io/village-news/kn/</link>
+    <link>https://nrisofsagar.co.in/kn/</link>
     <description>Recent content on NRIs of Sagar</description>
     <generator>Hugo</generator>
     <language>kn</language>
-    <atom:link href="https://yeshavantakp-leilani.github.io/village-news/kn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nrisofsagar.co.in/kn/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
